@@ -1,0 +1,26 @@
+.color {
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+}
+
+#color-palette {
+    display: flex;
+    justify-content: center;
+}
+
+#title {
+    text-align: center;
+}
+
+#pixel-board {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.pixel {
+    border: 2px solid black;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
